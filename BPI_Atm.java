@@ -10,4 +10,4 @@ public class BPI_Atm {
             atmDispenser.dispense(new Currency(amount));
         }
     }
-}
+}  

@@ -30,4 +30,4 @@ public class ATMDispenseChain implements DispenseChain {
     public void setNextChain(DispenseChain nextChain) {
         this.nextChain = nextChain;
     }
-}
+} 
